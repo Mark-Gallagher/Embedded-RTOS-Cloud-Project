@@ -1,11 +1,9 @@
 # Embedded-RTOS-Cloud-Project
 Embedded C Project 
 The Project requires an embedded microcontroller(FRDMK64F), MCU Xpresso IDE and configuration of an AdafruitIO Dashboard.
-#Carpentry Tools Collection Class
 
 # 💫 About Me:
 I'm a Software Developer who's eager to learn new technologies and enhance my programming skills.
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mark.gallagher.5070) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/markgallagher779) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mark-gallagher-57a765163) 
